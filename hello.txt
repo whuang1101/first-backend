@@ -1,1 +1,0 @@
-Hello Worl d!I hate node.js!
